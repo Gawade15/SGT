@@ -37,3 +37,9 @@ Early Fire and Gas Leak Detection: By continuously monitoring methane levels and
 Cost-Effective Solution: The use of Raspberry Pi and affordable sensors makes this alert system a cost-effective solution for enhancing home safety.
 
 The proposed IoT-based alert system provides an effective and reliable solution to protect homes from fire outbreaks, gas leaks, and high-temperature incidents. By enabling real-time monitoring and immediate notifications, the system empowers homeowners to respond promptly to potential hazards and ensure the safety of their properties and loved ones.
+
+
+
+
+future improvement:
+https://www.figma.com/proto/GP7CfeNTuWmI2Vf8UvCv8I/my-gas?type=design&node-id=1-78&t=KS4dCHIzH5VKtDgh-1&scaling=scale-down&page-id=0%3A1&starting-point-node-id=1%3A267
